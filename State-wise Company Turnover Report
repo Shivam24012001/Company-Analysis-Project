@@ -1,0 +1,3 @@
+A dropdown list for states enables dynamic report updates.
+Unique codes are generated in the format: State Abbreviation_Age_Average Turnover.
+Overview statements summarize state-wise data, dynamically updating using the '&' function, e.g.:
