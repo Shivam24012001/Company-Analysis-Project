@@ -1,0 +1,5 @@
+Interactive dropdown list for company types allows automatic report updates.
+Charts are created for each company type, displaying:
+Average Turnover
+Minimum Turnover
+Maximum Turnover
